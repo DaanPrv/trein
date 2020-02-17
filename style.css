@@ -1,19 +1,42 @@
+
+  body {
+
+  }
+
 header {
   background-color:gray;
   height:125.3141592653598px;
+   margin-left: 15vw;
+   margin-right: 10vw;
+  
 }
-article {
-  background-color: gainsboro
-;
+
+nav {
+height: 10vw;
+margin-left: 15vw;
 
 }
+
+
+article {
+  background-color: gainsboro;
+
+ margin-right: 10vw;
+}
+
+aside {
+float: left;
+margin:vw;
+background-color: grey;
+height: 141.3vw;
+width: 15vw;
+}
+
 
 footer {
     background-color:slategrey;
+    margin-left: 15vw;
+    margin-right: 10vw;
+    height: 10vw;
   }
 
-  body {
-    margin-left: 10vw;
-    margin-right: 10vw;
-  
-  }
