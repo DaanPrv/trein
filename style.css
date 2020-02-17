@@ -5,8 +5,15 @@ header {
 article {
   background-color: gainsboro
 ;
+
 }
 
 footer {
     background-color:slategrey;
+  }
+
+  body {
+    margin-left: 10vw;
+    margin-right: 10vw;
+  
   }
