@@ -1,5 +1,6 @@
 
   body {
+    background-color: silver;
 
   }
 
@@ -28,7 +29,7 @@ aside {
 float: left;
 margin:vw;
 background-color: grey;
-height: 141.3vw;
+height: 58.2vw;
 width: 15vw;
 }
 
