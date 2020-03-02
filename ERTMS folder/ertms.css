@@ -61,3 +61,8 @@ nav a:hover{
   background-color:bisque;
   top:-10px;
 }
+
+img{
+  float: right;
+  clear: both;
+}

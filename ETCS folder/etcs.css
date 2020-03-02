@@ -54,10 +54,16 @@ footer {
     margin-left: 10vw;
     margin-right: 10vw;
     height: 10vw;
+    clear: both;
   }
 
 
 nav a:hover{
   background-color:bisque;
   top:-10px;
+}
+
+img{
+  float: right;
+  clear:  both;
 }

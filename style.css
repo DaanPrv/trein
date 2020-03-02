@@ -23,6 +23,7 @@ article {
 
  margin-right: 10vw;
  margin-left: 10vw;
+ font-size: 19.8px;
 }
 
 aside {
@@ -39,6 +40,7 @@ footer {
     margin-left: 10vw;
     margin-right: 10vw;
     height: 10vw;
+    clear: both;
   }
 
 
@@ -64,4 +66,8 @@ nav a {
 
 h2 {
   color:gray;
+}
+
+img{
+  float: right;
 }
