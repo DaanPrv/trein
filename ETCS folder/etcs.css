@@ -12,3 +12,51 @@ nav a {
   cursor:pointer;
   top:0px;
 }
+
+  
+  body {
+    background-color: silver;
+
+  }
+
+header {
+  background-color:gray;
+  height:125.3141592653598px;
+   margin-left: 10vw;
+   margin-right: 10vw;
+  
+}
+
+nav {
+margin-left: 10vw;
+
+}
+
+
+article {
+  background-color: gainsboro;
+
+ margin-right: 10vw;
+ margin-left: 10vw;
+}
+
+aside {
+float: left;
+margin:vw;
+background-color: grey;
+height: 58.2vw;
+width: 15vw;
+}
+
+
+footer {
+    background-color:slategrey;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    height: 10vw;
+  }
+
+
+nav a:hover{
+  background-color:bisque;
+  top:-10px;
