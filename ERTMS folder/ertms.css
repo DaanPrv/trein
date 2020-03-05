@@ -62,7 +62,22 @@ nav a:hover{
   top:-10px;
 }
 
-img{
+img {
   float: right;
   clear: both;
+}
+
+p3 a:link {
+  color:red;
+  text-decoration:none;
+}
+
+p3 a:visited {
+  color:red;
+  text-decoration:none;
+}
+
+p3 a:hover {
+  color:blue;
+  text-decoration:none;
 }

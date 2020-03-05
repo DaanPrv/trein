@@ -50,7 +50,7 @@ width: 15vw;
 
 
 footer {
-    background-color:slategrey;
+    background-color: slategrey;
     margin-left: 10vw;
     margin-right: 10vw;
     height: 10vw;
@@ -60,4 +60,23 @@ footer {
 nav a:hover{
   background-color:bisque;
   top:-10px;
+}
+
+img {
+  float: right;
+}
+
+p3 a:link {
+  color:red;
+  text-decoration:none;
+}
+
+p3 a:visited {
+  color:red;
+  text-decoration:none;
+}
+
+p3 a:hover {
+  color:blue;
+  text-decoration:none;
 }

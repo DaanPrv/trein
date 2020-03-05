@@ -78,3 +78,22 @@ img{
   margin-left:10vw;
   margin-right:10vw;
 }
+
+img{
+  float: right;
+}
+
+p3 a:link {
+  color:red;
+  text-decoration:none;
+}
+
+p3 a:visited {
+  color:red;
+  text-decoration:none;
+}
+
+p3 a:hover {
+  color:blue;
+  text-decoration:none;
+}
