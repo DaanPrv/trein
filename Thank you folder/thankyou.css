@@ -1,0 +1,80 @@
+
+  body {
+    background-color: silver;
+
+  }
+
+header {
+  background-color:gray;
+  height:125.3141592653598px;
+   margin-left: 10vw;
+   margin-right: 10vw;
+  
+}
+
+nav {
+margin-left: 10vw;
+
+}
+
+
+article {
+  background-color: gainsboro;
+
+ margin-right: 10vw;
+ margin-left: 10vw;
+ font-size: 19.8px;
+}
+
+aside {
+float: left;
+margin:vw;
+background-color: grey;
+height: 58.2vw;
+width: 15vw;
+}
+
+
+footer {
+    background-color:slategrey;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    height: 10vw;
+    clear: both;
+  }
+
+
+nav a:hover{
+  background-color:bisque;
+  top:-10px;
+
+}
+nav a {
+	display:inline-block;
+	border-radius: 5px 5px 0px 0px;
+	border-bottom: 0px solid white;
+	background-color:rgba(255, 255, 255, 0.64);
+	color:black;
+	text-decoration:none;
+	padding: 10px 10px;
+	position:relative;
+	top:0px;
+	transition: all 1000ms ease;
+  cursor:pointer;
+  top:0px;
+}
+
+h2 {
+  color:gray;
+}
+
+img{
+  float: right;
+}
+
+.boxed {
+  border:1px solid green;
+  background-color: lightgreen;
+  margin-left:10vw;
+  margin-right:10vw;
+}
