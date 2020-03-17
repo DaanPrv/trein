@@ -1,0 +1,111 @@
+html { 
+  background: url(/images/wallpaper.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+nav a:hover{
+  background-color:darkcyan;
+  top:-5px;
+
+}
+nav a {
+	display:inline-block;
+	border-radius: 0px 0px 0px 0px;
+	border-bottom: 0px solid white;
+	background-color:rgb(26, 23, 23);
+	color:black;
+	text-decoration:none;
+	padding: 10px 10px;
+	position:relative;
+	top:0px;
+	transition: all 500ms ease;
+  cursor:pointer;
+  top:0px;
+  color:white;
+}
+
+ 
+  body {
+   
+
+  }
+
+header {
+  background-color:gray;
+  height:125.3141592653598px;
+   margin-left: 10vw;
+   margin-right: 10vw;
+  
+}
+
+nav {
+margin-left: 10vw;
+
+}
+
+
+article {
+  background-color: gainsboro;
+
+ margin-right: 10vw;
+ margin-left: 10vw;
+ font-size: 16px;
+ font-family:sans-serif;
+}
+
+aside {
+float: left;
+margin:vw;
+background-color: grey;
+height: 58.2vw;
+width: 15vw;
+}
+
+
+footer {
+    background-color:slategrey;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    height: 10vw;
+  }
+
+
+
+
+img {
+  float: right;
+  clear: both;
+}
+
+p3 a:link {
+  color:red;
+  text-decoration:none;
+}
+
+p3 a:visited {
+  color:red;
+  text-decoration:none;
+}
+
+p3 a:hover {
+  color:blue;
+  text-decoration:none;
+}
+
+iframe {
+ margin-left:5vw;
+ border:5px solid black;
+}
+
+.div1 {
+  margin-left:0vw;
+  margin-right:10vw;
+  background-color:rgb(26, 23, 23);
+}
+
+h2 {
+  color:gray;
+}
